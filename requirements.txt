@@ -1,0 +1,8 @@
+streamlit
+moviepy
+openai-whisper
+torch
+deep-translator
+gtts
+opencv-python-headless
+pillow
